@@ -1,0 +1,5 @@
+Github : https://github.com/AF-EL-ZUBAIDI/ML_natural_disaster
+Notion : https://www.notion.so/Projet-Python-ML-c8976da9c43144ceb9321c3f3dad1530
+Canva : https://www.canva.com/design/DAGdwVkBr0A/FOcZjHtDiqjXlOc3SnYWFQ/edit
+
+Dataset : https://www.kaggle.com/datasets/brsdincer/natural-disaster-data-noaa-years
